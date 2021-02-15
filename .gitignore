@@ -3,6 +3,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=django,react
 
 ### Django ###
+
+backend/backend/secrets.json
+
 *.log
 *.pot
 *.pyc
